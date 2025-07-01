@@ -11,8 +11,7 @@ Project Structure
 - sample_data.sql – INSERT statements with sample records
 - queries.sql – SELECT, JOIN, aggregation and subquery examples
 - views_and_functions.sql – Views and PL/pgSQL function
-- screenshots/ – Optional folder with query result screenshots
-
+  
 Database Entities
 - faculty
 - department
